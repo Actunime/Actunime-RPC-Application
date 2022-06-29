@@ -12,4 +12,4 @@
 ## Installation
 * Téléchargez la dernier version de l'application ici [Actunime RPC RELEASES](https://github.com/Actunime/Actunime-RPC-Application/releases).
 
-:warning: Si vous installer directement le fichier.exe vous aurez un avertissement de windows defender smartscreen.
+:warning: Si vous installer directement le fichier.exe vous risquez d'avoir un avertissement de windows defender smartscreen.
