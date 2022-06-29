@@ -10,3 +10,4 @@
 * Windows
 
 ## Installation
+* Téléchargez la dernier version de l'application ici [Actunime RPC RELEASE](https://github.com/Actunime/Actunime-RPC-Application/releases).
