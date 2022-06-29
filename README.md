@@ -1,5 +1,5 @@
 # Actunime RPC
-[![Actunime Discord Invite](https://img.shields.io/discord/745037351163527189?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/uQzXRbvMKq)
+[![Actunime Discord Invite](https://img.shields.io/discord/940648714790400000?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/uQzXRbvMKq)
 
 ## Fonctionnalitées
 * Programmer démarrage automatique lors de la connexion de l'utilisateur.
